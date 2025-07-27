@@ -53,5 +53,5 @@ This is a beginner-level Power BI project created to practice data visualization
 ## 📬 Contact
 
 If you have feedback or suggestions, feel free to reach out:  
-📧 ayktrs@gmail.com  
-📍 [LinkedIn](https://www.linkedin.com/) (you can update this with your real profile)
+📧 areisoglu@proton.me 
+📍 [LinkedIn](https://www.linkedin.com/aykutreisoglu) (you can update this with your real profile)
