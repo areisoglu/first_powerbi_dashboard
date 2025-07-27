@@ -25,7 +25,7 @@ This repository contains a Power BI `.pbix` file named **First Dashboard**, crea
 
 *(Optional – include if you upload screenshots to the `/images` folder)*
 
-![Dashboard Screenshot](images/dashboard1.png)
+![Dashboard Screenshot](images/first_dashboard_PBI.png)
 
 ---
 
