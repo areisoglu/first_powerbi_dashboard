@@ -23,7 +23,6 @@ This repository contains a Power BI `.pbix` file named **First Dashboard**, crea
 
 ## 🖼 Preview
 
-*(Optional – include if you upload screenshots to the `/images` folder)*
 
 ![Dashboard Screenshot](images/first_dashboard_PBI.PNG)
 
@@ -37,12 +36,7 @@ This repository contains a Power BI `.pbix` file named **First Dashboard**, crea
 
 ---
 
-## 🛠 Tech Stack
 
-- **Power BI Desktop**
-- Sample data embedded or imported (Excel, CSV, or mock data)
-
----
 
 ## 📌 Purpose
 
